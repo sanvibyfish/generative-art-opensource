@@ -1,0 +1,50 @@
+{
+  "dna": "2310000106",
+  "name": "311",
+  "description": "This is an NFT made by the coolest generative code.",
+  "image": "https://bafybeiam4u2ejfbdism3e2wowmezy2l5whcgkmydi7ibftqpjx5cxsqhhe.ipfs.nftstorage.link/311.png",
+  "edition": 311,
+  "date": 1655393470990,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Gary"
+    },
+    {
+      "trait_type": "Shoulder",
+      "value": "USA"
+    },
+    {
+      "trait_type": "Pin",
+      "value": "Smiley"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Facial hair",
+      "value": "No facial hair"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "No mask"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "No accessories"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Stealth"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "dna": "0100101200",
+  "name": "635",
+  "description": "This is an NFT made by the coolest generative code.",
+  "image": "https://bafybeiam4u2ejfbdism3e2wowmezy2l5whcgkmydi7ibftqpjx5cxsqhhe.ipfs.nftstorage.link/635.png",
+  "edition": 635,
+  "date": 1655394207091,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light blue"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Shoulder",
+      "value": "LunaFlag"
+    },
+    {
+      "trait_type": "Pin",
+      "value": "Smiley"
+    },
+    {
+      "trait_type": "Race",
+      "value": "NoSkin"
+    },
+    {
+      "trait_type": "Facial hair",
+      "value": "No facial hair"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Medical"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "No accessories"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Glass dome"
+    }
+  ]
+}

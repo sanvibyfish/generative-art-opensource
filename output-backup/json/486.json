@@ -1,0 +1,50 @@
+{
+  "dna": "1302001000",
+  "name": "486",
+  "description": "This is an NFT made by the coolest generative code.",
+  "image": "https://bafybeiam4u2ejfbdism3e2wowmezy2l5whcgkmydi7ibftqpjx5cxsqhhe.ipfs.nftstorage.link/486.png",
+  "edition": 486,
+  "date": 1655393868196,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Gary"
+    },
+    {
+      "trait_type": "Shoulder",
+      "value": "LunaFlag"
+    },
+    {
+      "trait_type": "Pin",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Facial hair",
+      "value": "No facial hair"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Medical"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde bun"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "No accessories"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Glass dome"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "dna": "1202000001",
+  "name": "314",
+  "description": "This is an NFT made by the coolest generative code.",
+  "image": "https://bafybeiam4u2ejfbdism3e2wowmezy2l5whcgkmydi7ibftqpjx5cxsqhhe.ipfs.nftstorage.link/314.png",
+  "edition": 314,
+  "date": 1655393477723,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Shoulder",
+      "value": "LunaFlag"
+    },
+    {
+      "trait_type": "Pin",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Facial hair",
+      "value": "No facial hair"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "No mask"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde bun"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "No accessories"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Headset"
+    }
+  ]
+}

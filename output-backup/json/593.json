@@ -1,0 +1,50 @@
+{
+  "dna": "0301000002",
+  "name": "593",
+  "description": "This is an NFT made by the coolest generative code.",
+  "image": "https://bafybeiam4u2ejfbdism3e2wowmezy2l5whcgkmydi7ibftqpjx5cxsqhhe.ipfs.nftstorage.link/593.png",
+  "edition": 593,
+  "date": 1655394111709,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light blue"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Gary"
+    },
+    {
+      "trait_type": "Shoulder",
+      "value": "LunaFlag"
+    },
+    {
+      "trait_type": "Pin",
+      "value": "LunaBluePin"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Facial hair",
+      "value": "No facial hair"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "No mask"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde bun"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "No accessories"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Helmet"
+    }
+  ]
+}

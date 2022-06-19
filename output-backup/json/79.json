@@ -1,0 +1,50 @@
+{
+  "dna": "3000000100",
+  "name": "79",
+  "description": "This is an NFT made by the coolest generative code.",
+  "image": "https://bafybeiam4u2ejfbdism3e2wowmezy2l5whcgkmydi7ibftqpjx5cxsqhhe.ipfs.nftstorage.link/79.png",
+  "edition": 79,
+  "date": 1655392946301,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Shoulder",
+      "value": "LunaFlag"
+    },
+    {
+      "trait_type": "Pin",
+      "value": "Smiley"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Facial hair",
+      "value": "No facial hair"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "No mask"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "No accessories"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Glass dome"
+    }
+  ]
+}

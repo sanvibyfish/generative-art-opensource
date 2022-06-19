@@ -1,0 +1,50 @@
+{
+  "dna": "0210100002",
+  "name": "189",
+  "description": "This is an NFT made by the coolest generative code.",
+  "image": "https://bafybeiam4u2ejfbdism3e2wowmezy2l5whcgkmydi7ibftqpjx5cxsqhhe.ipfs.nftstorage.link/189.png",
+  "edition": 189,
+  "date": 1655393195736,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light blue"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Shoulder",
+      "value": "USA"
+    },
+    {
+      "trait_type": "Pin",
+      "value": "Smiley"
+    },
+    {
+      "trait_type": "Race",
+      "value": "NoSkin"
+    },
+    {
+      "trait_type": "Facial hair",
+      "value": "No facial hair"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "No mask"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde bun"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "No accessories"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Helmet"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "dna": "1142101006",
+  "name": "36",
+  "description": "This is an NFT made by the coolest generative code.",
+  "image": "https://bafybeiam4u2ejfbdism3e2wowmezy2l5whcgkmydi7ibftqpjx5cxsqhhe.ipfs.nftstorage.link/36.png",
+  "edition": 36,
+  "date": 1655392832664,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Shoulder",
+      "value": "Coffee"
+    },
+    {
+      "trait_type": "Pin",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Race",
+      "value": "NoSkin"
+    },
+    {
+      "trait_type": "Facial hair",
+      "value": "No facial hair"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Medical"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde bun"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "No accessories"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Stealth"
+    }
+  ]
+}

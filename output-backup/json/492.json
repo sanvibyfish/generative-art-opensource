@@ -1,0 +1,50 @@
+{
+  "dna": "1242001206",
+  "name": "492",
+  "description": "This is an NFT made by the coolest generative code.",
+  "image": "https://bafybeiam4u2ejfbdism3e2wowmezy2l5whcgkmydi7ibftqpjx5cxsqhhe.ipfs.nftstorage.link/492.png",
+  "edition": 492,
+  "date": 1655393881720,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Shoulder",
+      "value": "Coffee"
+    },
+    {
+      "trait_type": "Pin",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Facial hair",
+      "value": "No facial hair"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Medical"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "No accessories"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Stealth"
+    }
+  ]
+}

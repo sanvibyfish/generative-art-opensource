@@ -1,0 +1,50 @@
+{
+  "dna": "0213000102",
+  "name": "47",
+  "description": "This is an NFT made by the coolest generative code.",
+  "image": "https://bafybeiam4u2ejfbdism3e2wowmezy2l5whcgkmydi7ibftqpjx5cxsqhhe.ipfs.nftstorage.link/47.png",
+  "edition": 47,
+  "date": 1655392873680,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light blue"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Shoulder",
+      "value": "USA"
+    },
+    {
+      "trait_type": "Pin",
+      "value": "Cake"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Facial hair",
+      "value": "No facial hair"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "No mask"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "No accessories"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Helmet"
+    }
+  ]
+}

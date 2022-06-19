@@ -20,7 +20,7 @@ var dnaList = [];
 
 const saveImage = (_editionCount) => {
   fs.writeFileSync(
-    `./output/${_editionCount}.png`,
+    `./output/images/${_editionCount}.png`,
     canvas.toBuffer("image/png")
   );
 };
@@ -114,17 +114,57 @@ const isDnaUnique = (_DnaList = [], _dna = []) => {
   return foundDna == undefined ? true : false;
 };
 
+const randomFrom = (lowerValue, upperValue) => {
+  return Math.floor(Math.random() * (upperValue - lowerValue + 1) + lowerValue);
+};
+
+const reset = (arr) => {
+  var eachArr = arr.concat([])
+  var lastArr = []
+  function deepEach(deepArr) {
+      if (deepArr.length) {
+          var randomIndex = randomFrom(0, eachArr.length - 1)
+          lastArr.push(eachArr[randomIndex])
+          eachArr.splice(randomIndex, 1) 
+          deepEach(eachArr)
+      }
+  }
+  deepEach(eachArr)
+  return lastArr
+}
+
+const randomResult = (prizes) => {
+  var prizeList = [] //按照权重分解后的奖品数组
+  prizes.map(function(item){
+      prizeList.push({
+          id: item.id,
+          name: item.name,
+          path: item.path
+      })
+      for(var i=0; i< item.weight; i++) {
+          prizeList.push({
+              id: item.id,
+          })
+      }
+  });
+  prizeList = reset(prizeList);
+  var random = randomFrom(0, prizeList.length - 1);
+  return prizeList[random]
+}
+
 const createDna = (_races, _race) => {
   let randNum = [];
   _races[_race].layers.forEach((layer) => {
-    let randElementNum = Math.floor(Math.random() * 100);
-    let num = 0;
-    layer.elements.forEach((element) => {
-      if (randElementNum >= 100 - element.weight) {
-        num = element.id;
-      }
-    });
-    randNum.push(num);
+    // let randElementNum = Math.floor(Math.random() * 100) + 1;
+    // let num = 0;
+
+    // layer.elements.forEach((element) => {
+    //   if (randElementNum >= 100 - element.weight) {
+    //     num = element.id;
+    //   }
+    // });
+    // randNum.push(num);
+    randNum.push(randomResult(layer.elements))
   });
   return randNum;
 };
@@ -135,7 +175,7 @@ const writeMetaData = (_data) => {
 
 const saveMetaDataSingleFile = (_editionCount) => {
   fs.writeFileSync(
-    `./output/${_editionCount}.json`,
+    `./output/json/${_editionCount}.json`,
     JSON.stringify(metadataList.find((meta) => meta.edition == _editionCount))
   );
 };
